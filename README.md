@@ -1,3 +1,6 @@
+<figure>
+  <img src="/public/react-date-craft-png.png" alt="Logo" width="100" height="50">
+</figure>
 
 # react-date-craft
 
