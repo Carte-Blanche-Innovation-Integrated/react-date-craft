@@ -1,8 +1,13 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# react-date-craft
 
-Currently, two official plugins are available:
+" `react-date-craft` features an intelligent input field that allows you to enter any time interval using natural language. This advanced datetime picker then automatically converts your input into the correct datetime format.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+For instance, you can simply type phrases like:
+- "next Friday at 3pm"
+- "in 2 weeks"
+- "tomorrow at noon"
+- "first day of next month"
+- "three days from now"
+
+The datetime picker will instantly and accurately transform your input into the precise date and time. This seamless conversion process makes it incredibly easy to input and interpret dates and times without worrying about formatting, enhancing user experience and efficiency."
